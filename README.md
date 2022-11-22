@@ -13,3 +13,4 @@ Today, the best wireless mice(opens in new tab) are just as accurate as their wi
 The best gaming mouse doesn't have to cost a bunch either; I've found some great budget gaming mice, and I've personally tested dozens of gaming mice over the years. As a team we've boiled them down to bring you the best gaming mice that are actually worth your time. If you're looking to round off your setup, the best gaming keyboards(opens in new tab) will pair nicely with the mice below. Otherwise, you'll be performing a bit lopsidedly.
 
 # Top 5 BEST Gaming Mouse of [2022]
+
