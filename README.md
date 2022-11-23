@@ -13,4 +13,71 @@ Today, the best wireless mice(opens in new tab) are just as accurate as their wi
 The best gaming mouse doesn't have to cost a bunch either; I've found some great budget gaming mice, and I've personally tested dozens of gaming mice over the years. As a team we've boiled them down to bring you the best gaming mice that are actually worth your time. If you're looking to round off your setup, the best gaming keyboards(opens in new tab) will pair nicely with the mice below. Otherwise, you'll be performing a bit lopsidedly.
 
 # Top 5 BEST Gaming Mouse of [2022]
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4a7wifMvZcg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+
+## Fantech Aria XD7
+
+![Aria](https://fantechworld.com/wp-content/uploads/2022/07/Aria-XD7-Superlightweight-1000x563.jpg)
+
+ARIA XD7
+$68,80
+
+- PixArt 3395 Gaming Sensor
+- 59 Grams Super Lightweight Design
+- 1000Hz Polling Rate
+- Kailh GM8.0 Switches
+- TTC Gold Scroll Wheel Encoder
+- Huano Black Shell White Dot Side Switches
+- Huano Black Shell Blue Dot Scroll Switch
+- No RGB!
+
+
+## Atlantis Wireless Superlight Gaming Mouse
+
+![Atlantis](https://www.maxgaming.com/bilder/artiklar/zoom/22169_4.jpg?m=1661150334)
+
+# PRICE: $99.95
+
+### PRODUCT DESCRIPTION
+
+Wireless
+ from 
+Lamzu
+
+Lamzu Atlantis was built for demanding gamers who want full control. A heart of the mouse is its sensor – it determines its accuracy which is key during the game. The atlantis boasts a high-quality PAW3395 optical sensor which allows you to freely choose the DPI scale between 200 to 26000 DPI.
+
+Having such an advanced device makes you want to enjoy it for as long as possible. Hence why we decided to equip it with Huano Blue Pink Dot switches. Push the limits of performance and explore the full potential of gaming.
+
+### ARTICLE NUMBER
+
+Our article number: 22336
+Manuf. article number: LAMZU-ATL-BLK
+
+### BRAND
+Lamzu is a new company made up of peripheral enthusiasts, FPS gamers/designers, structural engineers, and supply chain managers with 20+ years of experience in the gaming industry.
+
+### SPECIFICATIONS
+BATTERY:
+Battery life	70 h
+### CONNECTION
+Connection: 2.4GHz, USB-C
+
+### PROPERTIES
+Sensor model	Pixart PMW3395
+Sensor	Optical
+Switch type	Huano Blue
+DPI	26000 dpi
+Max acceleration	50 G
+Number of buttons	6
+Scroll wheel	Yes
+Color	Black
+Encoder	TTC Gold
+Polling Rate	1000 Hz
+SIZE & WEIGHT
+
+Width	66 mm
+Depth	123 mm
+Height	38 mm
+Weight	55 g
+Wireless	Yes
