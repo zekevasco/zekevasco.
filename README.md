@@ -64,20 +64,23 @@ Battery life	70 h
 Connection: 2.4GHz, USB-C
 
 ### PROPERTIES
-Sensor model	Pixart PMW3395
-Sensor	Optical
-Switch type	Huano Blue
-DPI	26000 dpi
-Max acceleration	50 G
-Number of buttons	6
-Scroll wheel	Yes
-Color	Black
-Encoder	TTC Gold
-Polling Rate	1000 Hz
-SIZE & WEIGHT
+- Sensor model	> Pixart PMW3395
+- Sensor	 > Optical
+- Switch type	 > Huano Blue
+- DPI > 26000 dpi
+- Max acceleration	 > 50 G
+- Number of buttons	 > 6
+- Scroll wheel	 > Yes
+- Scroll wheel	 > Yes
+- Encoder	 > TTC Gold
+- Polling Rate	 > 1000 Hz
 
-Width	66 mm
-Depth	123 mm
-Height	38 mm
-Weight	55 g
-Wireless	Yes
+### SIZE & WEIGHT
+- Width	> 66 mm
+- Depth	> 123 mm
+- Height	> 38 mm
+- Weight > 55 g
+
+
+
+
