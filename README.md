@@ -81,6 +81,42 @@ Connection: 2.4GHz, USB-C
 - Height	> 38 mm
 - Weight > 55 g
 
+## Ninjutso Sora Wireless Gaming Mouse
 
+![Sora](https://cdn.shopify.com/s/files/1/0277/2507/0400/products/Top-Black.png?v=1668434148)
 
+### PRICE: $94.99
+Designed for claw grip and compatible with fingertip, with 45 grams super lightweight form, equipped with PAW3395 sensor, lag-free SnappyFire wireless tech, and 70 hours of battery, Sora is engineered with every little detail to help you aim and track the target more easily so you can dominate the battle.
 
+### SPECIFICATIONS
+
+### PHYSICAL SPECIFICATIONS
+- Depth：37.3mm
+- Grip width：59mm
+- Length：120.8mm
+- Weight：45g±2g
+
+### ELECTRONICS
+- Switch：Huano Pink Dot
+- Encoder：TTC-9mm
+- DebounceTime：0-16ms
+### TRACKING
+- Sensor：Pix art PAW3395
+- Resolution：50-26000DPI
+- Max.acceleration：50G
+- Max.speed：650IPS
+- Lift-offdistance：1/2mm
+- Max.report rate：1000Hz
+### BATTERY LIFE
+- 70 hours
+### SYSTEM REQUIREMENTS
+- Windows 7 or later
+- USB port
+- Internet for downloading software(optional)
+### PACKAGE CONTAINS
+- Sora
+- USB receiver
+- USB-C charging cable
+- Extension adapter
+- Replacement skates
+- Information Guide
