@@ -120,3 +120,36 @@ Designed for claw grip and compatible with fingertip, with 45 grams super lightw
 - Extension adapter
 - Replacement skates
 - Information Guide
+
+## X2 Mini Wireless Gaming Mouse
+
+### PRICE: $64.95
+
+### PRODUCT DESCRIPTION
+Wireless
+ from 
+Pulsar
+
+First came the fire and then the wheel. Humans have on several occasions in history changed the way we live our lives, and the way we see the world. Now it has happened again, Pulsar launches their new mouse X2 and X2 Mini!
+
+The heart of the mouse is a truly innovative Pixart PAW3395 sensor with phenomenal parameters. Its maximum acceleration is maintained at 50G and the maximum tracking speed is 650 IPS. The cursor speed can be adjusted from 50 to as much as 26000 DPI! Thanks to this, you can be sure that the sensor will precisely record the movement of your hand and perfectly reflect it during the game!
+
+The symmetrical design of the mouse and its ergonomic shape will ensure comfortable use without the feeling of wrist fatigue, and the low weight (52g) will allow you to control every movement with ultimate precision. What's more, Pulsar X2 has top Kailh GM 8.0 + Huano White and TTC gold encoder so you can enjoy this unique mouse for years to come.
+
+### ARTICLE NUMBER
+- Our article number: 22058
+- Manuf. article number: PX201S
+
+### BRAND
+Pulsar Gaming Gears is an eSports gear brand founded new in 2020 with a mission to serve high tech products at better cost performance for consumers. The company is founded in KOREA.
+
+Pulsar's founders and founding members are not just anybody. Members have been in the gaming gears industry for over 10 years with a deep technology background and experience. The Brand is aiming to become one of the world’s leading providers of high-performance gaming, and streaming products. Pulsar plans to offer a complete range of products to equip gamers, enthusiasts, and esports athletes, including mechanical keyboards, precision gaming mice, wireless headsets, premium speakers, portable display products, and all other premium PC peripherals.
+
+### SPECIFICATIONS
+
+### CONNECTION
+- Connection > 2.4GHz
+- Wireless > Yes
+### OTHER INFORMATION
+- Weight tuning	> No
+### PROPERTIES
